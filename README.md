@@ -3,8 +3,19 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+<div>
 
-<!---
-sky130/sky130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+<a href="https://github.com/sky130">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sky130&show_icons=true" />
+</a>
+
+<P><P>
+
+<div>
+<a href="https://github.com/sky130">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky130" />
+</a>
+</div>
+
+
