@@ -3,19 +3,15 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<div>
 
-</div>
-<a href="https://github.com/sky130">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sky130&show_icons=true" />
-</a>
 
-<P><P>
+  <a href="https://github.com/sky130">
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sky130&show_icons=true" />
+  </a>
 
-<div>
-<a href="https://github.com/sky130">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky130" />
-</a>
-</div>
+  <a href="https://github.com/sky130">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky130" />
+   </a>
+
 
 
