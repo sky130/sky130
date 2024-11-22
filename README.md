@@ -4,7 +4,7 @@
 
 就没啥好介绍的, 就一普通人
 
-[](./image/outputoutputoutput.png)
+[](./image/output.png)
 
 
 ### 开发项目
