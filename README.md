@@ -25,15 +25,17 @@
 
 ### 联系我
 
-Email: sky233@lightxi.com
+- Email: sky233@lightxi.com
 
-QQ: 1303868337
+- QQ: 1303868337
 
-BiliBili: @Sky233ml
+- BiliBili: @Sky233ml
 
-Coolapk: @Sky233ml
+- Coolapk: @Sky233ml
 
-Wx: null
+- Wx: null
+
+---
 
 可能还有更多的平台我也在里面，可以试试搜索`Sky233`找我
 
