@@ -48,10 +48,12 @@
 毕竟`ml`后缀只是为了平台不能重名的妥协
 
 ---
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sky130)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-<a href="https://github.com/sky130">
+
+<!-- <a href="https://github.com/sky130">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sky130&show_icons=true&include_all_commits=true" />
-</a>
+</a> -->
 
 
 
