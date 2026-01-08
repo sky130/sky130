@@ -19,7 +19,7 @@
 
 ### 掌握的东西
 
-[![My Skills](https://skillicons.dev/icons?theme=light&i=androidstudio,idea,pycharm,vscode,python,kotlin,java,nodejs,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&i=androidstudio,idea,pycharm,vscode,python,kotlin,java,nodejs,go,js,html,css)](https://skillicons.dev)
 
 <!-- 上面这些东西就唬人罢了,哥们什么也不会 -->
 
