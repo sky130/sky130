@@ -1,11 +1,3 @@
-# 👋 这里是一个毫无存在感的高中生的 Github 主页
-
-### 自我介绍
-
-就没啥好介绍的, 就一普通人
-
-高三读完了
-
 ### 开发项目
 
 [![](./image/miwu.png)](https://github.com/sky130/MiWu) 
@@ -35,17 +27,7 @@
 
 - Wx: null
 
-- 爱发电: [@Sky233](https://afdian.com/a/sky233)
-
----
-
-可能还有更多的平台我也在里面，可以试试搜索`Sky233`找我
-
-如果不行就搜索`Sky233ml`
-
-我希望你们能更多的称呼我为`Sky233`
-
-毕竟`ml`后缀只是为了平台不能重名的妥协
+- Afdian: [@Sky233](https://afdian.com/a/sky233)
 
 ---
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sky130)](https://github.com/pranesh-2005/github-readme-stats-fast)
