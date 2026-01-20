@@ -1,35 +1,32 @@
-### 开发项目
+# 项目
 
 [![](./image/miwu.png)](https://github.com/sky130/MiWu) 
 [![](./image/zero.png)](https://github.com/sky130/ZeroMusicApp) 
-[![](./image/zhiyv.png)](https://github.com/sky130/GardeniaBrowser) 
-[![](./image/suiteki.png)](https://github.com/sky130/Suiteki-app) 
+[![](./image/suiteki.png)](https://github.com/sky130/Suiteki-Pro) 
 [![](./image/amarket.png)](https://amarket.icu) 
-[![](./image/choseki.png)](https://github.com/sky130/Choseki) 
 [![](./image/yidu.png)](https://github.com/sky130/)
 
+# 技术栈
 
-### 掌握的东西
+[![Skills](https://skills.syvixor.com/api/icons?i=android,jetpackcompose,ktor,kotlin,java,golang,nodejs,python)](https://github.com/syvixor/skills-icons)
 
-[![My Skills](https://skillicons.dev/icons?theme=light&i=androidstudio,idea,pycharm,vscode,python,kotlin,java,nodejs,go,js,html,css)](https://skillicons.dev)
+# 开发工具
+
+[![Skills](https://skills.syvixor.com/api/icons?perline=10&i=androidstudio,goland,clion,intellijidea,pycharm,rider,visualstudiocode,github,githubactions,googlechrome,leetcode,figma,codeberg,docker)](https://github.com/syvixor/skills-icons)
 
 <!-- 上面这些东西就唬人罢了,哥们什么也不会 -->
 
-### 联系我
+# 联系我
 
 - Email: sky233@lightxi.com
-
 - QQ: 1303868337
-
 - BiliBili: @Sky233ml
-
 - Coolapk: @Sky233ml
-
 - Wx: null
-
 - Afdian: [@Sky233](https://afdian.com/a/sky233)
 
----
+# 其他
+
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sky130)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
