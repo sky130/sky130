@@ -8,7 +8,7 @@
 
 # 技术栈
 
-[![Skills](https://skills.syvixor.com/api/icons?i=android,jetpackcompose,ktor,kotlin,java,golang,nodejs,python)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=10&i=android,kotlinmultiplatform,composemultiplatform,jetpackcompose,ktor,kotlin,java,golang,nodejs,python)](https://github.com/syvixor/skills-icons)
 
 # 开发工具
 
