@@ -27,7 +27,8 @@
 
 # 其他
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sky130)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast-lac.vercel.app/api/?username=sky130)]([https://github.com/pranesh-2005/github-readme-stats-fast](https://github-readme-stats-fast-lac.vercel.app/api/?username=sky130))
+
 
 
 <!-- <a href="https://github.com/sky130">
